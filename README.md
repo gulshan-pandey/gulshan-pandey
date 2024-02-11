@@ -3,13 +3,13 @@
 # 💫 About Me:
 
 
-- 🌱 I’m currently learning **DSA(java),Threejs**
+- 🌱 I’m currently learning **DSA(java),Spring/Springboot**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **gulshanpandey7210@gmail.com**
 
-- ⚡ Fun fact **"It's all 0's & 1's...</>"**
+- ⚡ Fun fact **<>It's all 0's & 1's...</>**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g_u_l_s_h_a_n.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gulshan-pandey) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/gulshan-pandey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@gulshanpandey72) 
