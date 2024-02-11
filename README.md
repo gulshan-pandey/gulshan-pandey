@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA(java),Spring/Springboot**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java,SQL**
 
 - 📫 How to reach me **gulshanpandey7210@gmail.com**
 
