@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gulshan Pandey</h1>
 
 # 💫 About Me:
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+</br>
 
 - 🌱 I’m currently learning **DSA(java),Spring/Springboot**
 
@@ -12,7 +12,9 @@
 - 📫 How to reach me **gulshanpandey7210@gmail.com**
 
 - ⚡ Fun fact **<>It's all started with 0's & 1's...</>**
-  
+  </br>
+  </br>
+  </br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g_u_l_s_h_a_n.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gulshan-pandey) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/gulshan-pandey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@gulshanpandey72) 
