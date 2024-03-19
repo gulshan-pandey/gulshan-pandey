@@ -6,7 +6,7 @@
 
 </br>
 
-- 🌱 I’m currently learning **DSA(java),Spring/Springboot**
+- 🌱 Currently working on **Java development**
 
 - 💬 Ask me about **Java,SQL**
 
