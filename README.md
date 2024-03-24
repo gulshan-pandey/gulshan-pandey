@@ -6,7 +6,7 @@
 
 </br>
 
-- 🌱 Currently working on **Java development ♨️♨️**
+- 🌱 Currently working on **Java development ♨️ **
 
 - 💬 Ask me about **Java,SQL**
 
