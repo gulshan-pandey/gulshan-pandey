@@ -23,7 +23,7 @@
 # 💻 Tools & Tech: 
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  
- <table align="left">
+  <table align="left">
   <tr>
     
    <td align="center" width="80">
@@ -46,12 +46,12 @@
       <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="50" height="50" />
       <br>Postman
     </td>
+</tr>
+<tr>
     <td align="center" width="80">
       <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="spring boot" width="50" height="50" />
       <br>Spring boot
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" width="50" height="50" />
       <br>C
@@ -68,6 +68,8 @@
       <img src="https://skillicons.dev/icons?i=css" width="45" height="50" alt="css" />
       <br>CSS
     </td>
+</tr>
+<tr>
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="50" height="50" />
       <br>Sass
@@ -76,8 +78,6 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="50" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
       <br>MySQL
@@ -89,6 +89,7 @@
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="50" />
     </td>
+</tr>
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
       <br>React
@@ -101,7 +102,6 @@
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="64" height="50" />
       <br>JavaScript
     </td>
-  </tr>
 </table>
 
 
