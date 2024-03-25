@@ -21,7 +21,7 @@
 
 
 # 💻 Tools & Tech: 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" min-width="380px" max-width="380px" width="380px" align="right" alt="Computador iuriCode">
  
  <table align="center">
   <tr>
