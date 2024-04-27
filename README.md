@@ -8,7 +8,7 @@
 
 - 🌱 Currently working on **Java development ♨️**
 
-- 💬 Ask me about **Java,SQL**
+- 💬 Ask me about **Java,Python,SQL**
 
 - 📫 How to reach me **gulshanpandey7210@gmail.com**
 
