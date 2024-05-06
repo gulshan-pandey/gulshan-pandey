@@ -6,9 +6,9 @@
 
 </br>
 
-- 🌱 Currently working on **Java development ♨️**
+- 🌱 Currently building with **Java development ♨️**
 
-- 💬 Ask me about **Java,Python,SQL**
+- 💬 lets talk about **Java,Python,SQL**
 
 - 📫 How to reach me **gulshanpandey7210@gmail.com**
 
