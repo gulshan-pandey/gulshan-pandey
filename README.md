@@ -113,6 +113,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gulshan-pandey&theme=blue-green&hide_border=false)<br/>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gulshan-pandey&bg_color=000&border_color=30A3DC&title_color=F99FFFF&text_color=FFF)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gulshan-pandey&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+<img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gulshan-pandey&theme=radical&hide_border=false">
  ![](https://i.imgur.com/waxVImv.png)
 
 
