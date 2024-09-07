@@ -9,7 +9,7 @@
 - 🌱 Currently building with **Java development ♨️** and honing skills in **Data Structures and Algorithms**
 
 
-- 💬 lets talk about **Java,Python,SQL**
+- 💬 lets talk about **Java,JavaScript,SQL**
 
 - 📫 How to reach me **gulshanpandey7210@gmail.com**
 
