@@ -118,7 +118,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=gulshan-pandey&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" style="max-height: 100%; max-width: 32%; margin: 5px;">
   <img src="https://leetcard.jacoblin.cool/_leetcoder__?theme=transparent&border_color=%2330A3DC" style="max-height: 100%; max-width: 32%; margin: 5px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/gulshan-pandey/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshan-pandey&layout=compact&theme=radical&border_color=30A3DC" style="max-height: 100%; max-width: 32%; margin: 5px;">
   </a>
   
