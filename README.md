@@ -6,7 +6,7 @@
 
 </br>
 
-- 🌱 Currently building with **Spring Boot♨️** and honing skills in **Data Structures and Algorithms**
+- 🌱 Currently digging into **Microservices♨️** and honing skills in **Data Structures and Algorithms**
 
 
 - 💬 lets talk about **Java,JavaScript,SQL**
