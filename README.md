@@ -141,7 +141,8 @@
 
 
 
-[![ Hits ](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgulshan-pandey&count_bg=%239000FF&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![](https://komarev.com/ghpvc/?username=gulshan-pandey&color=5E03FC&style=plastic&label=👻HITS...~  )
 
 ![Snake animation](https://github.com/GabrielaSinastre/GabrielaSinastre/blob/output/github-contribution-grid-snake.svg)
 
