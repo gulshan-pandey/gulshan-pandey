@@ -6,7 +6,8 @@
 
 </br>
 
-- 🌱 Currently digging into **Microservices♨️** and honing skills in **Data Structures and Algorithms**
+- <!-- 🌱 Currently digging into **Microservices♨️** and honing skills in **Data Structures and Algorithms** -->
+- 🌱 Currently digging into **AI/ML**
 
 
 - 💬 lets talk about **Java,JavaScript,SQL**
